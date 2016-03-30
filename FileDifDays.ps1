@@ -6,6 +6,7 @@
 # FileDifDays.ps1 pasta
 # Retorna a diferença de dias entre o primeiro  e o utlimo arquivo
 # Execute : powershell -file FileDifDays.ps1 pasta
+# Habilitando a execução de scripts PowerShell - http://paulosantanna.com/2012/10/14/habilitando-a-execucao-de-scripts-powershell/
 #>
 
 $Pasta = "c:\"
